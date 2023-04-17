@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/SimpleLoginByReact/static/css/main.40abbd75.css",
-    "main.js": "/SimpleLoginByReact/static/js/main.c03e19c6.js",
+    "main.js": "/SimpleLoginByReact/static/js/main.4120eb57.js",
     "static/media/fa-solid-900.ttf": "/SimpleLoginByReact/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
     "static/media/signin-bg-jpg": "/SimpleLoginByReact/static/media/signin-bg-2e90b9bf0eb96dcf489b0c00bfa7b35e.2e90b9bf0eb96dcf489b.jpg",
     "static/media/fa-brands-400.ttf": "/SimpleLoginByReact/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
@@ -15,10 +15,10 @@
     "static/media/fa-v4compatibility.woff2": "/SimpleLoginByReact/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
     "index.html": "/SimpleLoginByReact/index.html",
     "main.40abbd75.css.map": "/SimpleLoginByReact/static/css/main.40abbd75.css.map",
-    "main.c03e19c6.js.map": "/SimpleLoginByReact/static/js/main.c03e19c6.js.map"
+    "main.4120eb57.js.map": "/SimpleLoginByReact/static/js/main.4120eb57.js.map"
   },
   "entrypoints": [
     "static/css/main.40abbd75.css",
-    "static/js/main.c03e19c6.js"
+    "static/js/main.4120eb57.js"
   ]
 }
