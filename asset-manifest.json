@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/SimpleLoginByReact/static/css/main.40abbd75.css",
+    "main.js": "/SimpleLoginByReact/static/js/main.c03e19c6.js",
+    "static/media/fa-solid-900.ttf": "/SimpleLoginByReact/static/media/fa-solid-900.4a2cd718d7031b732e76.ttf",
+    "static/media/signin-bg-jpg": "/SimpleLoginByReact/static/media/signin-bg-2e90b9bf0eb96dcf489b0c00bfa7b35e.2e90b9bf0eb96dcf489b.jpg",
+    "static/media/fa-brands-400.ttf": "/SimpleLoginByReact/static/media/fa-brands-400.150de8eaa454d669c405.ttf",
+    "static/media/fa-solid-900.woff2": "/SimpleLoginByReact/static/media/fa-solid-900.bb975c966c37455a1bc3.woff2",
+    "static/media/fa-brands-400.woff2": "/SimpleLoginByReact/static/media/fa-brands-400.e033a13ee751afc1860c.woff2",
+    "static/media/fa-regular-400.ttf": "/SimpleLoginByReact/static/media/fa-regular-400.d87474231f4192884802.ttf",
+    "static/media/ATIS-Egypt-73448-1669195677.jpeg": "/SimpleLoginByReact/static/media/ATIS-Egypt-73448-1669195677.4b0af2752c76db372087.jpeg",
+    "static/media/fa-regular-400.woff2": "/SimpleLoginByReact/static/media/fa-regular-400.3223dc79c1adee56370b.woff2",
+    "static/media/Dimofinf-Operations-Center-Egypt-56.png": "/SimpleLoginByReact/static/media/Dimofinf-Operations-Center-Egypt-56.c472b27334c4b231edde.png",
+    "static/media/fa-v4compatibility.ttf": "/SimpleLoginByReact/static/media/fa-v4compatibility.0e3a648be390bd8cb094.ttf",
+    "static/media/fa-v4compatibility.woff2": "/SimpleLoginByReact/static/media/fa-v4compatibility.68577e40f3e70067b5da.woff2",
+    "index.html": "/SimpleLoginByReact/index.html",
+    "main.40abbd75.css.map": "/SimpleLoginByReact/static/css/main.40abbd75.css.map",
+    "main.c03e19c6.js.map": "/SimpleLoginByReact/static/js/main.c03e19c6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.40abbd75.css",
+    "static/js/main.c03e19c6.js"
+  ]
+}
